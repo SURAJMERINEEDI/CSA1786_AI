@@ -5,5 +5,3 @@ rainy(ooty).
 cold(ooty).
 snowy(X):-rainy(X),cold(X).
 
-INPUT/OUTPUT
-?- rainy(X).
