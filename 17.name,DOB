@@ -7,6 +7,3 @@ born(joop, 30,4,1989).
 born(jannecke, 17,3,1993).
 born(jaap, 16,11,1995).
 
-INPUT
-? born(A,B,C,D).
-?- born(N,D,M,Y).
